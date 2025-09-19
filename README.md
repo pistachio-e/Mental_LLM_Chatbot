@@ -12,6 +12,10 @@ This project is a simple **GUI application (Tkinter)** that records audio and pe
 
 ---
 
+#Datasets
+1. https://huggingface.co/datasets/Amod/mental_health_counseling_conversations
+2. https://huggingface.co/datasets/ShenLab/MentalChat16K
+
 ## 📦 Dependencies
 
 Install required packages:
